@@ -1,0 +1,10 @@
+.nav-bar{
+    display: flex;
+    justify-content: center;
+    background-color:  hsl(268, 47%, 21%);
+    font-size: 1.2em;
+    color: white;
+    font-weight: 700;
+    padding-top: 3px;
+    padding-bottom: 3px;
+}

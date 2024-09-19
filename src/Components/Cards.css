@@ -1,0 +1,7 @@
+.allcards{
+    display: flex;
+    justify-content: center;
+    flex-flow: row wrap;
+    max-width: 700px;
+    margin: 0 auto;
+}

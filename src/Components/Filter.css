@@ -1,0 +1,23 @@
+.filtbtn{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.allbtns{
+    all: unset;
+    font-size: 0.55em;
+    padding: 5px 5px;
+    background-color: hsl(268, 47%, 21%);
+    border: 1px solid transparent;
+    margin-left: 5px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.allbtns.selected {
+    border-color: white; 
+}
